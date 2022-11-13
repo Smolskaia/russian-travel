@@ -5,3 +5,15 @@
   object-position: center;
   object-fit: cover;
 }
+
+@media screen and (max-width: 1024px) {
+  .lead__image {
+    margin-top: 3.5rem;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .lead__image {
+    margin-top: 2.5rem;
+  }
+}
