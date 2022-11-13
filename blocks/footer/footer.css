@@ -3,6 +3,21 @@
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
-  margin: 5.75rem auto 0;
+  margin: 5.75rem auto 1.5rem;
   padding: 0 3rem;
+}
+
+@media screen and (max-width: 768px) {
+  .footer {
+    padding: 0 1.5rem;
+    margin: 5.5rem auto 0;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .footer {
+    padding-left: 1rem;
+    padding-right: 7.375rem;
+    margin: 4rem auto 0;
+  }
 }

@@ -4,3 +4,18 @@
   font-weight: 900;
   line-height: 4.75rem;
 }
+
+@media screen and (max-width: 768px) {
+  .place__title {
+    font-size: 2.625rem;
+    line-height: 2.875rem;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .place__title {
+    font-size: 2rem;
+    line-height: 2.1rem;
+    padding: 0 1rem;
+  }
+}
