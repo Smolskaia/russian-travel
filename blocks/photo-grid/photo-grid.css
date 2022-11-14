@@ -18,5 +18,6 @@
   .photo-grid {
     margin: 4rem auto 0;
     padding: 0 1rem;
+    gap:0.73rem;
   }
 }
