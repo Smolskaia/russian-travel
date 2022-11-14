@@ -18,4 +18,4 @@
 
 [Чеклист проекта](https://code.s3.yandex.net/web-developer/checklists-pdf/new-program/checklist-3.pdf)
 
-
+**[Ссылка на проект](https://smolskaia.github.io/russian-travel/)**
