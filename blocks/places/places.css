@@ -17,6 +17,13 @@
   }
 }
 
+@media screen and (max-width: 450px) {
+  .places {
+    margin: 4rem auto 0;
+    padding: 0;
+  }
+}
+
 @media screen and (max-width: 320px) {
   .places {
     margin: 4rem auto 0;
