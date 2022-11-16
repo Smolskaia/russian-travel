@@ -5,6 +5,13 @@
   line-height: 3.625rem;
 }
 
+@media screen and (max-width: 340px) {
+  .intro__title {
+    font-size: 2.8rem;
+    line-height: 3rem;
+  }
+}
+
 @media screen and (max-width: 320px) {
   .intro__title {
     font-size: 2rem;
