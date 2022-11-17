@@ -13,14 +13,12 @@
 
 @media screen and (max-width: 768px) {
   .cover {
-    padding: 0;
     margin: 5.6rem auto 0;
   }
 }
 
 @media screen and (max-width: 320px) {
   .cover {
-    padding: 0;
     margin: 4.125rem auto 0;
   }
 }
